@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="600" height="338" src="https://github.com/OoGKoO/OoGKoO/blob/main/merry.gif">
+<img align="right" width="300" height="169" src="https://github.com/OoGKoO/OoGKoO/blob/main/merry.gif">
 
 
 # Hi, I'm [冷溪凌寒!](https://www.cnblogs.com/OoGKoO/) 👋.
