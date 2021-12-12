@@ -1,16 +1,29 @@
-### Hi there 👋
+<!--哈喽吖~ 欢迎来到我的 github-->
 
-<!--
-**OoGKoO/OoGKoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" height="169" src="https://github.com/miluluyo/photo_gallery/blob/master/maid.gif?raw=true">
+
+
+# Hi, I'm [冷溪凌寒!](https://www.cnblogs.com/OoGKoO/) 👋.
+
+会整点前端的后端人 | 热爱编程 :hatching_chick:
+
+大道至简，知易行难。 :running:
+
+## Reach me 
+[![Github](https://img.shields.io/github/followers/OoGKoO?label=Github&style=social)](https://github.com/OoGKoO)
+[![主页](https://img.shields.io/badge/blog-touhou.fan-pink)](https://www.touhou.fan/)
+[![Blog](https://img.shields.io/badge/blog-博客园-blue)](https://www.cnblogs.com/OoGKoO/)
+
+### Interesting stats
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OoGKoO" />
+</a>
+
+&nbsp;
+
+<!-- Thanks for stopping by! 😁 -->
+
+---
