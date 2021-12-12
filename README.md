@@ -7,9 +7,9 @@
 
 # Hi, I'm [冷溪凌寒!](https://www.cnblogs.com/OoGKoO/) 👋.
 
-会整点前端的后端人 | 热爱编程 :hatching_chick:
+会写点前端的后端人 :hatching_chick:
 
-大道至简，知易行难。 :running:
+想，要壮志凌云；做，要脚踏实地。 :running:
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/OoGKoO?label=Github&style=social)](https://github.com/OoGKoO)
