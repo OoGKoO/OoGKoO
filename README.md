@@ -7,7 +7,7 @@
 
 # Hi, I'm [冷溪凌寒!](https://www.cnblogs.com/OoGKoO/) 👋.
 
-会写点前端的后端人 :hatching_chick:
+全栈混子人 :hatching_chick:
 
 想，要壮志凌云；做，要脚踏实地。 :running:
 
